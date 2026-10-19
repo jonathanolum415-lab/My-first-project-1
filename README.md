@@ -7,7 +7,7 @@
   <body>
       <h1>My name is Jonathan Olum</h1>
       <h2>REGISTRATION NO.</h>
-      <h3>not yet</h3>
+      <h3>REG NO: 26/BSE/BU/R/0026</h3>
       <img src="/IMG_20250130_170227~2.jpg" alt="" srcset=""width="100px"
   </body>
 </html>
